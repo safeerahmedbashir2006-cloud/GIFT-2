@@ -1,0 +1,440 @@
+{
+  "version": "7304b139c73ca072aceb",
+  "totalBytes": 33325099,
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 296155,
+      "sha256": "fefaa3911672e31f40128098ec4af0420ece383c62f6e44d44209133f37fd8ad",
+      "type": "text/html",
+      "source": "game-shell.bin"
+    },
+    {
+      "path": "test.html",
+      "bytes": 296155,
+      "sha256": "fefaa3911672e31f40128098ec4af0420ece383c62f6e44d44209133f37fd8ad",
+      "type": "text/html",
+      "source": "game-shell.bin"
+    },
+    {
+      "path": "offline-client.js",
+      "bytes": 2425,
+      "sha256": "c5d85e2732f86b651858f4cceb8c55cb46d43349ed5dfc4c8c837ca91a0c0e30",
+      "type": "text/javascript"
+    },
+    {
+      "path": "assets/CHARACTER-CREDITS.txt",
+      "bytes": 1462,
+      "sha256": "5dd0c349800217fb30edfe5597b8efb32aba115d0038893db1c8fc26c97aac58",
+      "type": "text/plain"
+    },
+    {
+      "path": "assets/THREE-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d",
+      "type": "text/plain"
+    },
+    {
+      "path": "assets/arrival-message.mp4",
+      "bytes": 3892937,
+      "sha256": "11d92b9f74124c9f4e19d38cf8ebb963d70a0e320f73c3b5553307dcd2161ad9",
+      "type": "video/mp4"
+    },
+    {
+      "path": "assets/audio/CREDITS.txt",
+      "bytes": 1911,
+      "sha256": "e98afc317ae7117f21570d95735f70e9f3c0b4ef94b2e5249eb68840266bc1e4",
+      "type": "text/plain"
+    },
+    {
+      "path": "assets/audio/applause.mp3",
+      "bytes": 263633,
+      "sha256": "6efd9c308fca969c6b52cf068be271973d09f4ccd28d9b8fea89257189af7b6c",
+      "type": "audio/mpeg"
+    },
+    {
+      "path": "assets/audio/cabin.mp3",
+      "bytes": 94148,
+      "sha256": "23f5c69539f1cf1e74d575a1c92477ea687f176610cf98c4e6459917ed7122f7",
+      "type": "audio/mpeg"
+    },
+    {
+      "path": "assets/audio/cheers.ogg",
+      "bytes": 50104,
+      "sha256": "10d9f614307127a8c2b2b129e9a291b6071c8fc91f1fed4916f78ad47c956b25",
+      "type": "audio/ogg"
+    },
+    {
+      "path": "assets/audio/door.mp3",
+      "bytes": 35058,
+      "sha256": "cc7ed49a06feb85140b98ccb30fc2b09d7fd0efeb37f086bf632117dd9818f6a",
+      "type": "audio/mpeg"
+    },
+    {
+      "path": "assets/audio/festive.mp3",
+      "bytes": 3837827,
+      "sha256": "add1de5eae0771c4ce5b3782a6eae9c01f321d32446421691426587000e50cdc",
+      "type": "audio/mpeg"
+    },
+    {
+      "path": "assets/audio/gala.mp3",
+      "bytes": 1455503,
+      "sha256": "6788023aca545398f272c6d4a5ab7bafbbec4f9fa41291e92054abfc392e2a61",
+      "type": "audio/mpeg"
+    },
+    {
+      "path": "assets/audio/limo.ogg",
+      "bytes": 884021,
+      "sha256": "93e4a671d7779524ed164c27fa9ab64695e7a25090466b3296fe2cc0c48d1bb5",
+      "type": "audio/ogg"
+    },
+    {
+      "path": "assets/audio/museum.ogg",
+      "bytes": 1003302,
+      "sha256": "ca4da42bb6cfbef2643fd0ad8784799363df070505eb0fcb8c0a10fdf8a6f481",
+      "type": "audio/ogg"
+    },
+    {
+      "path": "assets/audio/redcarpet.mp3",
+      "bytes": 1623008,
+      "sha256": "46b0bc3f7dc825378db02f01079063ac88e1e4584bdf94f82cfccde41cc414d3",
+      "type": "audio/mpeg"
+    },
+    {
+      "path": "assets/audio/shutter.ogg",
+      "bytes": 20520,
+      "sha256": "029dfcb981fdf375fb0ae4657962b3d470e1a073932c3d3aefb15d3d9ba38670",
+      "type": "audio/ogg"
+    },
+    {
+      "path": "assets/audio/step.ogg",
+      "bytes": 9715,
+      "sha256": "33c9bef5e8aeb1069455699a34a0c5e1ef1787fd3f61594b0859d7e6bb9f9dec",
+      "type": "audio/ogg"
+    },
+    {
+      "path": "assets/audio/suspense.mp3",
+      "bytes": 1693086,
+      "sha256": "996f821610eeb77b3bef5b256cad95cdc5d4563f7594cca51a1d4e90a83630b4",
+      "type": "audio/mpeg"
+    },
+    {
+      "path": "assets/audio/triumph.ogg",
+      "bytes": 207061,
+      "sha256": "6af3e4d45e22c2b2e46d4fbb04ea3e691c1991f2199eef50283f5918c87b7766",
+      "type": "audio/ogg"
+    },
+    {
+      "path": "assets/audio/whistle.mp3",
+      "bytes": 3356,
+      "sha256": "a82877fb69985b73788661f6f660f765f7cb9d03ccc443b4f8d7ae9344219854",
+      "type": "audio/mpeg"
+    },
+    {
+      "path": "assets/finale-message.mp4",
+      "bytes": 3682037,
+      "sha256": "011b9cf297424d9dffc365776182f292dd77275c0f285e17143c5c97fa7644ab",
+      "type": "video/mp4"
+    },
+    {
+      "path": "assets/gala-portrait.jpg",
+      "bytes": 457563,
+      "sha256": "3376b7a157c1c79b814b3dee06feb9f8115ab60a8db48ec259c84f912a90e237",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/people/harper.glb",
+      "bytes": 1200568,
+      "sha256": "416d360ce7b3ee4412c5aeeb34b4e328b25661feef49aceb449e827f9e637358",
+      "type": "model/gltf-binary"
+    },
+    {
+      "path": "assets/people/maya.glb",
+      "bytes": 2450340,
+      "sha256": "61feb00bc9fc58f5e5ba073f17c060a65988a06f880f7d0f41dd8e63438b8c64",
+      "type": "model/gltf-binary"
+    },
+    {
+      "path": "assets/people/seated.glb",
+      "bytes": 1549340,
+      "sha256": "f823aec02fa77dbc733ad152ecad8930c205d442ce7203c767313bf77ce7174b",
+      "type": "model/gltf-binary"
+    },
+    {
+      "path": "assets/people/security.glb",
+      "bytes": 1537876,
+      "sha256": "955d50c1f89018c837ed73e63de54b764fe746dab5a8f769eeeb4e9b2defa6df",
+      "type": "model/gltf-binary"
+    },
+    {
+      "path": "assets/photos/robina-01.jpg",
+      "bytes": 157779,
+      "sha256": "133f49396892fbae9f9d8cc31d0cb8e40c053136e6ebb271fecc4cbc53dbd098",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-02.jpg",
+      "bytes": 166901,
+      "sha256": "3ab98c967013312faf765fe0347452ac79c8af826a246ea7849881c8dc9cb2ed",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-03.jpg",
+      "bytes": 106062,
+      "sha256": "7723a12d3fbafe05b76223df69bb739e3bef4a932f82bf786224b60cf44951d5",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-04.jpg",
+      "bytes": 99074,
+      "sha256": "bba882779099ffc89dd469d8724f85bcf155281720bb934c03823f86cd36cad9",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-05.jpg",
+      "bytes": 52523,
+      "sha256": "b5c031b3c9c0578ead1b4e44e04ca9dc701371de894e47fe3e96a426f6e1c4e4",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-06.jpg",
+      "bytes": 305473,
+      "sha256": "abccaa090306bad57dfe9758b5c3b4c7c2de89f6331f15d23e43797737494ae3",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-07.jpg",
+      "bytes": 219097,
+      "sha256": "615055d55d59cfd04811af3ccaa022282a1423396f92514b9c8692303fd3b4ba",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-08.jpg",
+      "bytes": 68983,
+      "sha256": "c2384a3ef3da1d237c5534173791a29e20e3b9d6e7f3cb60541e4168ab805db4",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-09.jpg",
+      "bytes": 44896,
+      "sha256": "8e9ff3c17263ccd5ddba6b292b37bd6749b27ccae3889c6b1bad1de8cd3d40d3",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-10.jpg",
+      "bytes": 176719,
+      "sha256": "c06cf703e18ba552ed1c25cb617da666f33620856076f3b46c08aec23b5110d2",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-11.jpg",
+      "bytes": 232676,
+      "sha256": "ae2232484156a9d62e96daceb3a4dbf2044a66e0c101c4ed053823d827d62dc8",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-12.jpg",
+      "bytes": 80399,
+      "sha256": "f935469ec0a754a41d07a9d26e6dade6d80b2bd78cb1a7c209d79bb74137799a",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-13.jpg",
+      "bytes": 317362,
+      "sha256": "823a7774a6eb145d7d914d1bab579011af58a9cb97f59b8457658a52868112b7",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-14.jpg",
+      "bytes": 246063,
+      "sha256": "7cafd4e2200c00a3da482fbc0d49e0b9f2a31843699e1f56572920689a083789",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-15.jpg",
+      "bytes": 116701,
+      "sha256": "36998a3424f074c41f9a1bc1de5aeab2eb117f16c90a1f1bf2bd2c025d0f9bee",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-16.jpg",
+      "bytes": 38017,
+      "sha256": "5704354316a8845fd4a0ffac24f7daeff7b4c086aeeadfdd7533ca3346299554",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-17.jpg",
+      "bytes": 31944,
+      "sha256": "eb04517ff303a42308aa3f2c4a41d233e921a269bb2b5d5de040fb5eedac0af3",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-18.jpg",
+      "bytes": 199965,
+      "sha256": "a7296a1ec9650c5dd0988f7a5997b3e6ff0283a77cee8563a8efa78c2e959f76",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-19.jpg",
+      "bytes": 243154,
+      "sha256": "a6b2d1f327ae31a0fe2ebbb3d0346310b35514faf4ea162b1f841915f0e6723d",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-20.jpg",
+      "bytes": 176074,
+      "sha256": "b37155c18844ff8f1bdd096e027efdb2bca8073d5daaf2969787dc988fa061ee",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-21.jpg",
+      "bytes": 20494,
+      "sha256": "5225f3e8ee4ebb9c232203f32a0110ed2a68f6bd102b9844c91f209af3c7d2eb",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-22.jpg",
+      "bytes": 83305,
+      "sha256": "6542e67ec6ebbade2d1e4685363584edc39a660b959093be600cc3c93b4611b7",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-23.jpg",
+      "bytes": 192052,
+      "sha256": "6177aa38be89385fbc7a53e51e571549d1d03fb9306bfb7c07faf9bddf5f8be8",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-24.jpg",
+      "bytes": 134791,
+      "sha256": "3d8f608a30c038030e776a8d79c83b6a60456b909c7eafd8cf70340450cb122d",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-25.jpg",
+      "bytes": 196065,
+      "sha256": "49842edfcaa19a2b3053fa23aa4a2a4c81dc4b146bedc6efad50b89c77ab78a6",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-26.jpg",
+      "bytes": 131074,
+      "sha256": "c64eca668cca22e50e4aa9eea737ab9049f3120722463c24f54b25448999924f",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-27.jpg",
+      "bytes": 162221,
+      "sha256": "45395c531a2aa9f07d8a2ddbbbef35e3b37d7e353bc337a00f5e8a6d0735016b",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-28.jpg",
+      "bytes": 22417,
+      "sha256": "67ed8fe104573b65530e33a7f8aedce0101e45dcf1b2f518afb5c61fb467f103",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-29.jpg",
+      "bytes": 158512,
+      "sha256": "2f28f5a1fa83b11e21750dab3b81041f889f9fd5930e5c805b58c7aa4319ab11",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-30.jpg",
+      "bytes": 208806,
+      "sha256": "71cc082fe8b5e3117a78d6ef84508e2998661a8aaa5e3e3c56ba8d5127913946",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-31.jpg",
+      "bytes": 354047,
+      "sha256": "713d0f8415adbe70ddda5b7233b250468ffd7e1e6176b325ed1a218251c244ce",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-32.jpg",
+      "bytes": 242462,
+      "sha256": "e3d36e729ade96427f4dc11cd35c704ed9afc9f688354a8b25eb973949e2b2c9",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-33.jpg",
+      "bytes": 53618,
+      "sha256": "6b61406ae852ce12f342e8732c444f99bae7594ec343fee1cfd25c0c4a7321c0",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-34.jpg",
+      "bytes": 64248,
+      "sha256": "5e7b664dbb87ac2952b3910b319699562b563b4d2a2b65ea455a67d14b2ab875",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-35.jpg",
+      "bytes": 186526,
+      "sha256": "00a3a1e45462a60edcd30b9eec650b49d621d7731f0a26522f679d32895d5ad3",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-36.jpg",
+      "bytes": 119228,
+      "sha256": "778b5c6f67e998a18e5a2ee4f0ba965e6fed50c438841808830356c40cb25ec3",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-37.jpg",
+      "bytes": 164446,
+      "sha256": "3c10195038b63fb4053374bec17ddfa4da5224a43689fdb5e2c0458f657feb9b",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/photos/robina-38.jpg",
+      "bytes": 233873,
+      "sha256": "6e4bbbc942f5b4df6adf53526d4d078f75ed212519c7a624c059d6013ae4bfd7",
+      "type": "image/jpeg"
+    },
+    {
+      "path": "assets/three.min.js",
+      "bytes": 669884,
+      "sha256": "170c6789f43217c96b3170f4b42fafe135de7f7cd48497a4218f9757ee1d49fa",
+      "type": "text/javascript"
+    },
+    {
+      "path": "assets/vendor/BufferGeometryUtils.js",
+      "bytes": 31939,
+      "sha256": "3099c8285afec2da1f2db58ae043a1785678ba95154dc82f08c50c05c339fdcb",
+      "type": "text/javascript"
+    },
+    {
+      "path": "assets/vendor/BufferGeometryUtils.source.js",
+      "bytes": 31906,
+      "sha256": "9be041e96308775d00e2695cc607645b9a9b64fd7c0e759dd8f7c00a8d92becb",
+      "type": "text/javascript"
+    },
+    {
+      "path": "assets/vendor/GLTFLoader.js",
+      "bytes": 108547,
+      "sha256": "79be293b49845d25e1eb808b10afe3d7d470acf056f2d5792372ccfe18fd80cd",
+      "type": "text/javascript"
+    },
+    {
+      "path": "assets/vendor/GLTFLoader.source.js",
+      "bytes": 108522,
+      "sha256": "d073b438e6a07e1359741dd5d6c76c953420cc0d4fd84eb1bdde94315540e6a3",
+      "type": "text/javascript"
+    },
+    {
+      "path": "assets/vendor/SkeletonUtils.js",
+      "bytes": 8055,
+      "sha256": "56bf51a0b1470a1d4d8bbdb65853f026cee58934b42acd000df5a142c9b162ab",
+      "type": "text/javascript"
+    },
+    {
+      "path": "assets/vendor/SkeletonUtils.source.js",
+      "bytes": 8007,
+      "sha256": "83748c5072a5ce96e9d68d8efda908a1f1a06c0b5fd2618edc3e54a361a8fd5b",
+      "type": "text/javascript"
+    }
+  ]
+}

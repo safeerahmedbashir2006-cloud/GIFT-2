@@ -1,0 +1,27 @@
+Character assets — CC0 source declarations
+
+Security figure: Jordan, standing with folded arms
+https://www.innerscene.com/tools/library/3d-parts/folded-arms-3d-person-standing-b4b904f5
+
+Reception/host figure: Harper, business suit standing
+https://www.innerscene.com/tools/library/3d-parts/harper-3d-person-woman-business-suit-standing-9fde7f08
+
+Animated walking figure: Maya, relaxed walk
+https://www.innerscene.com/tools/library/3d-parts/relaxed-walk-maya-3d-person-animated-2c6669a2
+
+Seated figure: Harper, perched on a seat edge
+https://www.innerscene.com/tools/library/3d-parts/perched-on-a-seat-edge-3d-person-seated-6fc97fbc
+
+Additional compatible Maya sitting/standing animation:
+https://www.innerscene.com/tools/library/3d-parts/sit-down-and-stand-up-maya-3d-person-animated-2fc646b4
+
+The source pages declare these Innerscene/MakeHuman/MPFB derivatives CC0.
+Project modifications: geometry reduction, removal of unused hidden/accessory
+parts, 512-pixel texture resizing/compression, animation-channel transfer,
+embedded GLB data and scene placement. These are generic digital characters,
+not likenesses of Robina or of the fictional gala nominees. The source motions
+are authored animation, not motion capture.
+
+Three.js r160.1 GLTFLoader, BufferGeometryUtils and SkeletonUtils use the engine's
+MIT license, included as THREE-LICENSE.txt. Their module wrappers were adapted
+to share the bundled global Three.js instance; no CDN is needed at runtime.
